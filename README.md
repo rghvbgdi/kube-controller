@@ -25,7 +25,7 @@ These instructions will help you get the Kubernetes Resource Monitor Controller 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/gurpreet-legend/kube-controller.git
+   git clone https://github.com/raghavvbagdi/kube-controller.git
    cd kube-controller
    ```
 
